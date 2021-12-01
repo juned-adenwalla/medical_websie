@@ -1,0 +1,86 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    box-shadow: 0px 6px 6px -6px grey;;
+}
+.headerlogo{
+    width: 220px;
+    padding: 10px;
+    margin-left: 10px;
+    float: left;
+}
+.headerul{
+    float: left;
+}
+.headerli{
+    display: inline-block;
+    padding: 5px 15px;
+}
+.headera{
+    text-decoration: none;
+    color: #000000;
+}
+.headerbtn{
+    float: right;
+    margin: 15px;
+    margin-right: 20px;
+    padding: 7px 15px;
+    border-radius: 18px;
+    border: 2px solid #10847E;
+    background-color: white;
+}
+.headericon{
+    width: 20px;
+    margin-right: 10px;
+}
+.headericonbtn{
+    width: 20px;
+}
+
+/* Hero CSS */
+.homemain{
+    background-color: white;
+}
+.left{
+    float: left;
+    width: 50%;
+    padding: 20px;
+}
+.right{
+    float: right;
+    width: 50%;
+    padding: 80px;
+}
+.homehero{
+    width: 540px;
+    margin-left: -200px;
+    margin-top: 20px;
+}
+.righth1{
+    margin-top: -400px;
+    font-size: 45px;
+    margin-bottom: -5px;
+}
+.rightbtn{
+    padding: 8px 15px;
+    border: 2px solid #10847E;
+    border-radius: 18px;
+    background-color: white;
+    width: 120px;
+    margin-top: 10px;
+}
+.homecard{
+    width: 150px;
+    height: 150px;
+    border-radius: 12px;
+    box-shadow: 6px 6px 10px -5px grey;
+}
+.homecardimg{
+    width: 100px;
+    padding: 20px;
+}
